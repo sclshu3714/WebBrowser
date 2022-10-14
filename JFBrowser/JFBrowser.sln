@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefBrowser", "CefBrowser.csproj", "{B29EEACA-5605-42FC-B780-79E143E72758}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBrowser", "..\WebBrowser\WebBrowser.csproj", "{1CB3C31D-86F4-4C38-80D9-AB238D036C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29EEACA-5605-42FC-B780-79E143E72758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29EEACA-5605-42FC-B780-79E143E72758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29EEACA-5605-42FC-B780-79E143E72758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29EEACA-5605-42FC-B780-79E143E72758}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB3C31D-86F4-4C38-80D9-AB238D036C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB3C31D-86F4-4C38-80D9-AB238D036C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB3C31D-86F4-4C38-80D9-AB238D036C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB3C31D-86F4-4C38-80D9-AB238D036C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A644D29-83A6-44DF-9ADA-2DC47C5C9D26}
+	EndGlobalSection
+EndGlobal
